@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/platzi-conf/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/platzi-conf/static/js/main.d632e16e.chunk.js",
+    "main.js.map": "/platzi-conf/static/js/main.d632e16e.chunk.js.map",
+    "runtime-main.js": "/platzi-conf/static/js/runtime-main.1cd6e9b0.js",
+    "runtime-main.js.map": "/platzi-conf/static/js/runtime-main.1cd6e9b0.js.map",
+    "static/js/2.1f8fd0bf.chunk.js": "/platzi-conf/static/js/2.1f8fd0bf.chunk.js",
+    "static/js/2.1f8fd0bf.chunk.js.map": "/platzi-conf/static/js/2.1f8fd0bf.chunk.js.map",
+    "static/js/3.f822c3e6.chunk.js": "/platzi-conf/static/js/3.f822c3e6.chunk.js",
+    "static/js/3.f822c3e6.chunk.js.map": "/platzi-conf/static/js/3.f822c3e6.chunk.js.map",
+    "index.html": "/platzi-conf/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/platzi-conf/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1f8fd0bf.chunk.js.LICENSE.txt": "/platzi-conf/static/js/2.1f8fd0bf.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/platzi-conf/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cd6e9b0.js",
+    "static/js/2.1f8fd0bf.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d632e16e.chunk.js"
+  ]
+}
